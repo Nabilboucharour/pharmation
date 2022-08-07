@@ -8,7 +8,7 @@
 <?php endif; ?>
 
 <!-- font awesome 5 -->
-<link rel="stylesheet" href="<?php echo base_url() . 'assets/frontend/default/fontsaws/css/all.css'; ?>">
+<link rel="stylesheet" href="<?php echo base_url() . 'assets/frontend/default/fontsaws/css/fontawesome.css'; ?>">
 
 <link rel="stylesheet" href="<?php echo base_url() . 'assets/frontend/default/css/bootstrap.min.css'; ?>">
 
