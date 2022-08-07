@@ -2,7 +2,7 @@
 <script src="<?php echo base_url() . 'assets/frontend/default/js/vendor/jquery-3.2.1.min.js'; ?>"></script>
 <script src="<?php echo base_url() . 'assets/frontend/default/js/popper.min.js'; ?>"></script>
 <script src="<?php echo base_url() . 'assets/frontend/default/js/bootstrap.min.js'; ?>"></script>
-<script src="<?php echo base_url() . 'assets/frontend/default/fontsaws/js/fontawesome.js'; ?>"></script>
+<script src="<?php echo base_url() . 'assets/frontend/default/fontsaws/js/all.js'; ?>" data-auto-replace-svg="nest"></script>
 
 <?php if ($page_name == "home" || $page_name == "instructor_page") : ?>
 	<script src="<?php echo base_url() . 'assets/frontend/default/js/slick.min.js'; ?>"></script>
