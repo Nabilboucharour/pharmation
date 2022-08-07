@@ -26,6 +26,8 @@
 <script src="<?php echo base_url('assets/backend/js/vendor/dropzone.min.js');?>" charset="utf-8"></script>
 <script src="<?php echo base_url('assets/backend/js/ui/component.fileupload.js');?>" charset="utf-8"></script>
 <script src="<?php echo base_url('assets/backend/js/pages/demo.form-wizard.js'); ?>"></script>
+<script src="<?php echo base_url() . 'assets/frontend/default/fontsaws/js/all.js'; ?>" data-auto-replace-svg="nest"></script>
+
 <!-- dragula js-->
 <script src="<?php echo base_url('assets/backend/js/vendor/dragula.min.js'); ?>"></script>
 <!-- component js -->
