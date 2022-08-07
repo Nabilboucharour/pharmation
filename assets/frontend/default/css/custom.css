@@ -63,6 +63,7 @@
     url('fonts/oswald-v49-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
     url('fonts/oswald-v49-latin-600.svg#Oswald') format('svg'); /* Legacy iOS */
 }
+
 /* oswald-700 - latin */
 @font-face {
     font-family: 'Oswald';
